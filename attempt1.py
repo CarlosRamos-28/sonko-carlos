@@ -3,4 +3,3 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import sklearn
 print("Todo OK")
-print("ahora los commits tienen mi nombre")
